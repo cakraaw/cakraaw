@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/cakraaw__/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.cakraaw.my.id//">
+<a href="https://www.cakraaw.my.id/">
   <img src="https://img.shields.io/badge/Portfolio-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
