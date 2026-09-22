@@ -1,147 +1,271 @@
-# Hi, I'm Cakra Ananta Wangsa 👋
+<div align="center">
 
-### 💻 Informatics Engineering | 🎮 Esports & Media | 📸 Photographer | 🎥 Videographer
+# 👋 Hi, I'm Cakra Ananta Wangsa
 
-I'm an **Informatics Engineering graduate** with an interest in technology, digital media, esports, photography, and content creation.
+### 💻 Informatics Engineering Graduate • 🎮 Esports • 📸 Photography • 🎥 Videography
 
-I enjoy combining **technical skills with creative work** — from managing digital content and processing data to covering esports events, creating articles, photography, and video production.
+**Technology × Creativity × Media**
+
+<br>
+
+<a href="https://github.com/cakraaw">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/cakraaw__/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="http://www.sorahikari.my.id/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 **S1 Teknik Informatika** — Universitas Gunadarma (2019–2023)
-* 💻 Interested in **IT Support, Technology & Digital Media**
-* 📰 Experienced in **content writing, media administration, and social media**
-* 🎮 Interested in **esports, gaming, and competitive gaming**
-* 📸 Passionate about **event & cosplay photography**
-* 🎥 Experienced in **videography and event coverage**
-* 📊 Comfortable working with **Microsoft Excel & data processing**
-* ✍️ Enjoy writing about **technology, gaming, esports, and pop culture**
-* 🌱 Currently exploring new opportunities to grow in **technology and digital media**
+I'm **Cakra Ananta Wangsa**, an **Informatics Engineering graduate from Universitas Gunadarma** with a strong interest in technology, digital media, esports, photography, and content creation.
+
+I enjoy working at the intersection of **technology and creativity** — whether it's building websites, managing digital content, writing articles, covering esports events, or creating visual content.
+
+```text
+🎓 Informatics Engineering
+📍 Bekasi, Indonesia
+💻 Technology & IT
+🎮 Gaming & Esports
+📰 Media & Content
+📸 Photography
+🎥 Videography
+```
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧩 What I Do
+
+<table>
+<tr>
+<td width="50%">
 
 ### 💻 Technology
 
-* HTML
-* CSS
+* HTML / CSS
 * JavaScript
+* Git & GitHub
+* Basic IT Support
 * Microsoft Office
 * Microsoft Excel
 * Data Processing
-* Basic IT Support
-* Git & GitHub
+* Web Development
 
-### 📝 Content & Media
+</td>
+
+<td width="50%">
+
+### 🎨 Creative & Media
 
 * Content Writing
-* Copywriting
 * SEO Writing
-* Social Media Management
-* Digital Administration
-* News & Article Curation
-* Content Planning
-
-### 📸 Creative
-
+* Copywriting
+* Social Media
 * Photography
 * Videography
-* Event Documentation
 * Photo Editing
-* Video Editing
-* Canva
+* Event Documentation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎮 Interests
+## 🛠️ Tech Stack
 
-```text
-Gaming       ████████████████████ 100%
-Esports      ███████████████████░  95%
-Photography  ██████████████████░░  90%
-Technology   ██████████████████░░  90%
-Videography  █████████████████░░░  85%
-Writing      █████████████████░░░  85%
-```
+<div align="center">
 
-I frequently follow and cover topics around:
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,photoshop,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+</div>
+
+---
+
+## 📸 Creative Work
+
+My creative interests include:
+
+📷 **Event Photography**
+🎮 **Esports Photography**
+🎭 **Cosplay Photography**
+🎥 **Event Videography**
+📰 **Gaming & Technology Journalism**
+📱 **Social Media Content**
+
+I enjoy documenting moments and turning them into stories through **photos, videos, and written content**.
+
+---
+
+## 🎮 Gaming & Esports
+
+I'm particularly interested in the competitive gaming ecosystem and regularly follow topics around:
 
 * Mobile Legends: Bang Bang
 * Free Fire
 * PUBG
 * Honor of Kings
-* Gaming & esports events
-* Anime & Japanese pop culture
-* Technology & PC hardware
-* Cosplay & creative communities
+* Competitive Gaming
+* Esports Events
+* Gaming Communities
+
+My interest isn't limited to playing games — I also enjoy exploring the **media, content, production, and storytelling side of esports**.
 
 ---
 
-## 📂 What I Work On
+## 📰 Media Experience
 
-### 📰 Media & Content
+### Seputar Otaku
 
-Creating articles, news coverage, interviews, social media content, and event documentation related to gaming, esports, technology, and pop culture.
+**Staff Admin / Media**
 
-### 📸 Photography
+* Event coverage
+* Article writing
+* Content archive management
+* Transaction processing
+* Weekly sales reporting
+* Digital administration
 
-Event, esports, cosplay, and community photography with a focus on capturing authentic moments.
+### Media Formasi
 
-### 💻 Web Projects
+**Staff Admin**
 
-Building and experimenting with personal websites, portfolios, and digital projects using HTML, CSS, JavaScript, and GitHub.
+* Social media administration
+* Audience interaction
+* Digital administration
+* Content support
 
-### 🎥 Videography
+### Cosplay Rent by Stef
 
-Event documentation, social media video content, camera operation, and creative video production.
+**Social Media Admin**
 
----
+* Customer communication
+* Costume rental administration
+* Social media management
+* Excel data processing
 
-## 📊 Experience
+### Warnet
 
-**Staff Admin — Seputar Otaku**
+**Operator**
 
-> Media administration, content archive, event coverage, article writing, transaction processing, and weekly reporting.
-
-**Staff Admin — Media Formasi**
-
-> Social media administration, audience interaction, and digital administration.
-
-**Social Media Admin — Cosplay Rent by Stef**
-
-> Customer communication, costume rental administration, social media management, and Excel-based data processing.
-
-**Operator Warnet**
-
-> Transaction management, customer records, operational administration, and daily reporting.
-
----
-
-## 🌐 Personal Projects
-
-Some of the things I'm currently interested in building:
-
-* 📸 Photography Portfolio Website
-* 🎮 Esports & Gaming Content Projects
-* 💻 Personal Web Projects
-* 📰 Technology & Gaming Articles
-* 🎥 Event Photography & Videography Portfolio
+* Customer transactions
+* Operational records
+* Daily administration
+* Data processing
 
 ---
 
-## 📫 Let's Connect
+## 🚀 Current Focus
 
-I'm open to connecting with people interested in:
+```text
+[████████████████████] Web Development
+[███████████████████░] IT & Technology
+[███████████████████░] Esports & Gaming
+[██████████████████░░] Photography
+[█████████████████░░░] Videography
+[█████████████████░░░] Content Creation
+```
 
-**Technology • IT • Esports • Gaming • Media • Photography • Videography • Content Creation**
+I'm currently interested in opportunities and projects related to:
 
-Feel free to explore my repositories and projects.
+**IT Support • Technology • Esports • Media • Content • Photography • Videography**
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 📂 Featured Projects
 
-> *Combining technology, creativity, and storytelling — one project at a time.*
+### 🌐 Personal Website
+
+A personal web project built with HTML, CSS, and JavaScript.
+
+**Focus:** Web Design • Portfolio • Responsive UI
+
+---
+
+### 📸 Photography Portfolio
+
+A portfolio concept for showcasing event, cosplay, and esports photography.
+
+**Focus:** Photography • Portfolio • Visual Storytelling
+
+---
+
+### 🎮 Esports Content
+
+Content and documentation projects covering esports competitions, players, teams, and events.
+
+**Focus:** Journalism • Photography • Videography • Social Media
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cakraaw&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakraaw&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=cakraaw&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/cakraaw/cakraaw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/cakraaw">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/cakraaw__/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="http://www.sorahikari.my.id/">
+<img src="https://img.shields.io/badge/Portfolio-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+**Technology, creativity, and storytelling.**
+
+</div>
